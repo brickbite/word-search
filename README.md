@@ -9,12 +9,12 @@
 - nodeJS
 - Express
 
-## ToDos:
-- start script
-- handle case sensitivity
-- handle multiple words
-- fill out other parts of html
-- confirm functionality with dictionary.txt (currently using a.txt)
-- tests
-- css
-- add debounce
+## ToRemembers:
+- document add listener
+- readable stream to string
+- buffer to string
+- fetch request
+- fetch query
+- fs readFile
+- element update children
+- element remove all children
